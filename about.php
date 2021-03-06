@@ -12,7 +12,7 @@
 </header>
 <nav>
 	<ul class="ull">
-	   <li id="li"><a href="Home.php">Home</a></li>
+	   <li id="li"><a href="index.php">Home</a></li>
 	   <li id="li"><a href="about.php">About</a></li>
 	   <li id="li"><a href="products.php">Products</a></li>
 	   <li id="li"><a href="news.php">News</a></li>
@@ -21,7 +21,7 @@
 </nav>
 <section>
 	<div class="body-content">
-        <p style="font-size:28px; color: white; text-align:center">We at <b href="Home.php">AutoCar Productions</b> help customers choose an Electric Car that best suits them.
+        <p style="font-size:28px; color: white; text-align:center">We at <b href="index.php">AutoCar Productions</b> help customers choose an Electric Car that best suits them.
         </p>
 	</div>
 </section>

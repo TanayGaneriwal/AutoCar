@@ -12,7 +12,7 @@
 </header>
 <nav>
 	<ul class="ull">
-	   <li id="li"><a href="Home.php">Home</a></li>
+	   <li id="li"><a href="index.php">Home</a></li>
 	   <li id="li"><a href="about.php">About</a></li>
 	   <li id="li"><a href="products.php">Products</a></li>
 	   <li id="li"><a href="news.php">News</a></li>
